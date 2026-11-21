@@ -1,0 +1,5 @@
+fruits = ("Apple", "Banana", "Mango", "Orange")
+print("Tuple:", fruits)
+print("first element:", fruits[0])
+print("second element:", fruits[1])
+print("Last element:", fruits[-1])
