@@ -1,0 +1,7 @@
+def calculate(m1, m2, m3):
+    total = m1 + m2 + m3
+    average = total / 3
+    return total, average
+total, average = calculate(80, 90, 70)
+print("Total marks:", total)
+print("Average marks:", average)
